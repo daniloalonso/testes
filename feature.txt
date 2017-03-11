@@ -5,8 +5,8 @@ bliblibli
 blobloblo
 blublublu
 
-rarara111rarara
-rerere222rerere
-ririri333ririri
-rororo444rororo
-rururu555rururu
+rarara111rarara(ra1ra)
+rerere222rerere(re2re)
+ririri333ririri(ri3ri)
+rororo444rororo(ro4ro)
+rururu555rururu(ru5ru)
